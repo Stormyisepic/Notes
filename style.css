@@ -1,0 +1,33 @@
+p {text-align: center;
+}
+
+.top {color: crimson;
+    background-color: rgb(122, 193, 122);
+}
+
+#middle {color: aqua;
+    background-color: palevioletred;
+}
+
+.bottom {color: magenta;
+    background-color: chartreuse;
+}
+
+body {background-color: black;
+}
+
+.main1 p {
+    color: rgb(90, 30, 30);
+    background-color: darkcyan;
+}
+
+.main1 {
+    color: rgb(21, 21, 21);
+    background-color: darkcyan;
+}
+
+.main1 li {
+    color: white;
+    background-color: darkcyan;
+    padding: 20px;
+}
